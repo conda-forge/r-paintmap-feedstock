@@ -1,11 +1,11 @@
-About r-paintmap
-================
+About r-paintmap-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-paintmap-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=paintmap
 
 Package license: GPL (>= 2)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-paintmap-feedstock/blob/main/LICENSE.txt)
 
 Summary: Plots matrices of colours as grids of coloured squares - aka heatmaps,  guaranteeing legible row and column names,  without transformation of values,  without re-ordering rows or columns, and without dendrograms.
 
